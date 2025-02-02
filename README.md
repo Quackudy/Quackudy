@@ -14,6 +14,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![image](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,6 +27,3 @@
 
 ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Quackudy&layout=compact&theme=dark#gh-dark-mode-only)
     
-### Planned Project
-- CNN-LSTM for stock prediction
-- oiiaioiiiai cat AR cam (webXR, webGL)
