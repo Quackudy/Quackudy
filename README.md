@@ -10,7 +10,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-blue?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-eae8fc.svg?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
